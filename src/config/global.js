@@ -77,11 +77,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -89,7 +84,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_14_123500_DU.zip',
+        download: 'downloads/CFA14_123500_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -207,14 +202,12 @@ export default {
     {
       referencia:
         'Observatorio Económico Social UNR. (2015). Utilización de la Capacidad Instalada en la Industria.',
-      link:
-        'https://observatorio.unr.edu.ar/utilizacion-de-la-capacidad-instalada-en-la-industria-2/',
+      link: '',
     },
     {
       referencia:
         'Prieto Herrera, J. E. (2009). Investigación de Mercados. Ecoe Ediciones.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/69104',
+      link: '',
     },
     {
       referencia: 'Questionpro. (s.f.). ¿Qué es un análisis de mercado?',
@@ -223,8 +216,7 @@ export default {
     {
       referencia:
         'Sapag, N, Sapag, R & Sapag, J. (2008). Preparación y Evaluación de Proyectos (6ª Edición). Universidad de Chile.',
-      link:
-        'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1243/1/Sapag-proyectos%206ta%20edici%C3%B3n.pdf',
+      link: '',
     },
   ],
   creditos: [
